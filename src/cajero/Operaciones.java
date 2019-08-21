@@ -58,7 +58,7 @@ public abstract class Operaciones {
     }
 
     public double getCantidad() {
-        return cantidad;
+        return cantidad; //2da prueba
     }
 
     public void setCantidad(double cantidad) {
