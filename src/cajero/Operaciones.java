@@ -65,6 +65,6 @@ public abstract class Operaciones {
         this.cantidad = cantidad;
     }
 
-    public abstract void ejecutarOperacion();
+    public abstract void ejecutarOperacion(); //Comentario de prueba
 
 }
